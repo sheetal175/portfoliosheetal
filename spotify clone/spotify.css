@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+box-sizing: border-box;
+    
+}
+body{
+    background: rgb(0, 0, 0);
+
+}
+/* .card-card{
+    background: black;
+} */
+.card-link{
+
+    text-decoration: none;
+    color: black;
+    font-weight: 800;
+}
+.card{
+    align-items: center;
+ 
+}
+.cardicon{
+    padding: 10px 10px;
+}
+.bi{
+    width: 50px;
+}
+.card-text2{
+  padding-top:50px;
+}
+.spotifyclone{
+    display: flex;
+    justify-content: space-between;
+   background: black;
+}
+.navbar {
+height: fit-content;
+}
+ .songs-body{
+   margin-top:-500px;
+    float: right;
+}
+.fixed-bottom{
+  
+   background:linear-gradient(to top,transparent 10%, rgb(100, 10, 160) 30%); 
+}
